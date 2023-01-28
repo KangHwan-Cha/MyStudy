@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="182c640d-011a-4ee4-a87c-c8d5d05b7e10" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../CodeIt.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../CodeIt.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeIt_Summary/Object-Oriented Programming.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeIt_Summary/Object-Oriented Programming.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CSS 선택자 정리하기.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CodeIT_BeautifulSoup/Beautifulsoup4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CodeIT_BeautifulSoup/Requests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CodeIT_BeautifulSoup/SBS_data.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CodeIT_BeautifulSoup/꿈의직장전화번호모으기2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CodeIT_BeautifulSoup/데이터를csv파일로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CodeIT_BeautifulSoup/데이터를엑셀파일로(최종).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CodeIT_BeautifulSoup/데이터를엑셀파일로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CodeIT_BeautifulSoup/시청률_2010년1월1주차.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CodeIT_BeautifulSoup/시청률_2010년1월1주차.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CodeIT_BeautifulSoup/원하는태크선택하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CodeIT_Selenium/Explicit wait.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CodeIT_Selenium/Scroll후에 엑셀로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CodeIT_Selenium/시작하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CodeIT_Selenium/액션체인_나열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CodeIT_Selenium/액션체인_연결.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CodeIT_Selenium/웹스크래핑.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CodeIT_Selenium/웹스크래핑_전화번호모으기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CodeIT_Selenium/최종과제_코스타그램스크래핑.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/CsvToList.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/DataFrame으로.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/Jupyter Notebook/TV 시청률 크롤링 최종 프로젝트(데이터 프레임까지).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/Jupyter Notebook/검색어 순위 받아오기(strip, split).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/Jupyter Notebook/꿈의 직장 전화번호 모으기.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/Selenium VS Beautifulsoup.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/Selenium 기능 더 알아보기_Headless 모드.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/Selenium 기능 더 알아보기_iframe 다루기.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/Selenium 기능 더 알아보기_옵션 고르기.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/Selenium 기능 더 알아보기_웹 브라우저 제어하기.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/Selenium 웹사이트 제어하기 정리 노트.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/Selenium 웹에서 image 가져오기.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/Standardization/KDSIS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/Standardization/KDSIS_soup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/Standardization/Search Standard_quicksearch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/Std_List1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/Std_List2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/Std_List3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WEB Automation/웹 스크래핑 주의사항 (합법과 불법).docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2BCmwjk08j8UXTMSBhq5Tr5FXtS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/바탕 화면/COS Pro 1급" />
+  </component>
+  <component name="RunManager" selected="Python.Linked List">
+    <configuration name="Linked List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data Structure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/링크드 리스트" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/링크드 리스트/Linked List.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Data Structure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Linked List" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="182c640d-011a-4ee4-a87c-c8d5d05b7e10" name="Changes" comment="" />
+      <created>1656418681961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656418681961</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
